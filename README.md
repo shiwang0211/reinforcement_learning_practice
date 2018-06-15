@@ -3,8 +3,8 @@ Study reinforcement learning
 
 ## RL Practice.ipynb
 - Q learning using Q table (Frozon Lake example)
-- Q learning using neural network (Ping-pong example)
-- Policy gradient using neural network (Ping-pong example)
+- Build a deep Q learning model using neural network (Ping-pong example) with Tensorflow
+- Build a policy gradient model using neural network (Ping-pong example) with Tensorflow
 
 ## MCTS.ipynb
-- Implement Monte Carlo Tree Search algorithm for Tic Tac Toe Game
+- Implement Monte Carlo Tree Search (MCTS) algorithm for Tic Tac Toe Game
